@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm a full-stack developer based in Toronto🇨🇦. Simply put, I create websites that help companies solve business challenges. If I'm not in front of my laptop coding you'll probably find me skateboarding, hiking, photographing or findinding new bubble tea shops. Check out my [website]() for more information.
+I'm a full-stack developer based in Toronto🇨🇦. Simply put, I create websites that help companies solve business challenges. If I'm not in front of my laptop coding you'll probably find me skateboarding, hiking, photographing or findinding new bubble tea shops. Check out my [website](https://blxssxd.vercel.app/) for more information.
 
 ## My Skills:
 
@@ -39,6 +39,14 @@ IC3PEAK is a Russian experimental electronic duo which largely focuses on social
   <img src="./images/hummingbird.gif" width="100%" alt="Hummingbird"/>
 </a>
 
-**React, Gatsby, Styled Components, Framer Motion, Babel, CSS**
+**React, Material UI, Axios, CSS, Jest**
 
 You can use Hummingbird to quickly add words to your list and check out their definitions and pronunciations later.
+
+### Portfolio 
+
+<a target="_blank" href="https://blxssxd.vercel.app/">
+  <img src="./images/portfolio.gif" width="100%" alt="Portfoli"/>
+</a>
+
+**React, Tailwind Styled Components, Tailwind, PostCSS, Jest**
